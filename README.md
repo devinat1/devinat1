@@ -4,11 +4,10 @@
 
 ## Projects
 
-- 🤖 [humancode](https://github.com/devinat1/humancode) — AI coding agent that teaches you what it wrote using the Socratic method
+- 🤖 [humancode](https://github.com/devinat1/humancode) — AI coding agents with modes designed to better control agents
 - 🐛 [agentic-debugger](https://github.com/devinat1/agentic-debugger) — VS Code extension that lets AI agents control the built-in debugger
 - 🔧 [debugger-mcp-server](https://github.com/devinat1/debugger-mcp-server) — MCP server that exposes VS Code debugging tools to AI agents
 - 🔍 [vscode-branch-diff](https://github.com/devinat1/vscode-branch-diff) — VS Code extension that shows full branch diffs with gutter indicators
-- 📋 [claude-ci](https://github.com/devinat1/claude-ci) — GitHub Action that reviews PRs against Clean Code, OOP, and DDD principles using Claude
 - 📚 [claude-stack](https://github.com/devinat1/claude-stack) — CLI for orchestrating dependency-ordered stacks of Claude Code plans
 - 🌐 [go-web-agent](https://github.com/devinat1/go-web-agent) — LLM-powered browser agent in Go using an observe-plan-act cycle
 - 📆 [calendar-agent](https://github.com/devinat1/calendar-agent) — Discover local events via Perplexity AI and export them as iCal links
@@ -20,5 +19,3 @@
 - 📋 [work-queue](https://github.com/devinat1/work-queue) — Next.js task queue dashboard for tracking work in progress
 - 🪟 [tmux-worktree](https://github.com/devinat1/tmux-worktree) — Tmux config that pairs git worktrees with dedicated tmux windows
 - 📜 [cli_tool](https://github.com/devinat1/cli_tool) — Generate human-friendly changelogs from git commits using OpenAI
-- 🍺 [homebrew-tap](https://github.com/devinat1/homebrew-tap) — Homebrew formulae for distributing CLI tools via `brew install`
-- 🍽️ [dogas_kitchen](https://github.com/devinat1/dogas_kitchen) — An app for viewing Turkish recipes
